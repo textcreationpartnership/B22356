@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris, 23. Febr. 1643. It is this day ordered by the Commons assembled in Parliament, that Mr. Millington doe move the Assembly of Divines to appoint letters to be written to the Ministers of London, Westminster, and elsewhere; for the incouraging of subscriptions, for the raising and maintaining of Sir Thomas Middletons forces..</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22356</idno><idno type="EEBO-CITATION">99886280_193865</idno>
+  <idno type="VID">193865</idno>
+  <idno type="EEBO-PROQUEST">2248535266</idno>
+  
+            <idno type="STC">Wing E2603A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[84]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[63]</idno>
+            <idno type="STC">ESTC R225786</idno>
+            <idno type="PROQUEST">ocm99886280</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886280e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193865)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[84]; C29:2[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris, 23. Febr. 1643. It is this day ordered by the Commons assembled in Parliament, that Mr. Millington doe move the Assembly of Divines to appoint letters to be written to the Ministers of London, Westminster, and elsewhere; for the incouraging of subscriptions, for the raising and maintaining of Sir Thomas Middletons forces..</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Initial; Steele notation: Roman letter. the adversaries particu-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Middleton, Thomas, --  Sir, 1586-1666 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:193865:1"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 23. Febr. 1643.</date>
+               </dateline>
+            </opener>
+            <p>It is this day ordered by the Commons assembled in Parliament, That <hi>Mr. Millington</hi> doe move the Assembly of Divines to appoint Letters to be written to the Ministers of <hi>London, Westminster,</hi> and elsewhere; for the incouraging of Subscrip<g ref="char:EOLhyphen"/>tions, for the raising and maintaining of Sir <hi>Thomas Middletons</hi> Forces.</p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>TO OVR REVEREND AND DEARE BRETHREN, THE Ministers of the Cities of London, Westminster, and elsewhere, our Follow-Labourers in the Lords Vineyard.</head>
+            <opener>
+               <salute>Reverend and well-beloved Brethren:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE cannot but be very apprehensive, by the sad experience of the present distractions, both of the causes whence they proceed, and remedies whereby we hope they may be removed. Our sufferings, feares, and solemne Fasts ingage us to consider how God hath beene provoked by our sinnes, how his indignation is to be appeased, and how we may serve his providence by any of our indeavours to promote all warrantable meanes of safety from the imminent dangers, wherein the Malignant adversaries both of Religion and the State, continually labour to involve us: VVhich though they threaten us many wayes, yet no way more, than by pouring out the Irish Rebels into the Northerne parts, especially into North VVales, where they daily find a great party of ill-affected Gentry, Clergy, and people, whose grosse igno<g ref="char:EOLhyphen"/>rance, and blinde zeale, against the Reformation of the Church and Kingdome, make them capable of any impression of hostility, which may be of pernicious operation against all the wayes of redresse intended and pursued by our god<g ref="char:EOLhyphen"/>ly Governours, and by all those who put themselves under their protection and service. There have the Armies of the adverse party (when foiled elsewhere) a place of retreat, and hence are they most readily recruted; the windes ser<g ref="char:EOLhyphen"/>ving more ordinarily for passage out of <hi>Ireland</hi> into <hi>England</hi> and <hi>Wales,</hi> then contrariwise, and locking up in their Har<g ref="char:EOLhyphen"/>bours our greater ships (not able to abide those narrow and shelvie Seas) from intercepting the lesser vessels, wherein the Irish are wafted over. And while the Irish and VVelsh have such opportunities of association, the Forces of the Parliament are made ineffectuall, either to succour the Religious and Loyall Subjects in those parts, or to recover the City of <hi>Chester,</hi> a place of very great importance to the service and safety of the whole Kingdome. Against these evils the most present and powerfull remedy (as it is represented to us by the prudence of the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament assembled) is, that a proportion of Horse and Foot, (set downe in the Ordinance which herewith is sent un<g ref="char:EOLhyphen"/>to you) be with all expedition made up, under the conduct of Sir <hi>Thomas Middleton,</hi> with whose worth divers of us are very well acquainted, and whose wisedome, courage, and fidelity to the common cause of God and his Countrey, with much honour to him, is under the hands of faithfull witnesses (well knowne to some of us) very fully and late<g ref="char:EOLhyphen"/>ly attested, which makes us the more confident to propound the Propositions of supply by the loane of a considerable summe, to your pious indeavours, according to your interest with your Parishioners, and other friends. It is hard to say, whether the necessity of such an Army, or the advantage by it (if there be not too much delay in the service) bee a more urgent motive to set it forward. But this is evident, to all that know the state of those parts, that there is not so much Religion in many places among them as any way to civilize the people, and so much superstition (where there is any) that they have taken up armes to defend idolatrous pictures, against the execution of the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, whereby they were doomed to be pulled downe. And how can it be otherwise? while their Clergy are gene<g ref="char:EOLhyphen"/>rally either very ignorant, or very prophane. Against whichevills there is nothing more cordially intended by that worthy Knight, nor whereto our zeale may be more serviceable, then the removall of such Ministers, and the planting of better in their places, (no way so feasible as by this meanes,) which as we shall lay to heart for our owne particu<g ref="char:EOLhyphen"/>lars, so we desire to commend it, (with the whole designe) to your religious and affectionate furtherance, resting</p>
+            <closer>
+               <signed>Your very loving Brethren, the Divines, now assembled by Ordinance of Parliament.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Februar.</hi> 26. 1643▪</date>
+               </dateline>
+            </opener>
+            <p>Ordered that this Letter be sent in the name of the Assembly to the severall Ministers of <hi>London, Westminster,</hi> and elsewhere.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Henry Robrough</hi>
+                        <list>
+                           <item>Scribes.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Adoniram Byfield</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
